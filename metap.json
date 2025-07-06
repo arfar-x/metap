@@ -1,0 +1,7 @@
+{
+    "registry": {
+        "mql5.com": "https://www.mql5.com/en/code/mt5/libraries"
+    },
+    "dependencies": {},
+    "mt5_path": "C:\\Users\\Username\\Programs\\MetaTrader5\\Experts"
+}
